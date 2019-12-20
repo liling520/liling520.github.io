@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'LiLing'
 NickName: '小李'
-webtitle: 'https://liling520.github.io'
+webtitle: 'liling520.github.io'
 bio: ''
 about: true
 aboutyou: 'The girl is outgoing，easygoing and interesting'
@@ -25,12 +25,12 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: '865438568@qq.com'
   weixin: '/assets/wechat.JPG' # 你的微信二维码存放的地址
   qq: '/assets/QQ.JPG' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'liling520'
   Codepen: ''
-  weibo: ''
+  weibo: '/assets/weibo.JPG'
   instagram: ''
   Twitter: ''
   Dribbble: ''
