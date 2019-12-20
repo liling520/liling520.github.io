@@ -5,7 +5,7 @@ date: 2019-12-17
 author: LiLing
 color: rgb(255,210,32)
 cover: '../assets/test.png'
-tags: interesting tips of travel
+tags: travel
 ---
 
 > Think about
