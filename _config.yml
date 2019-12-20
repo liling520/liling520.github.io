@@ -19,7 +19,7 @@ NickName: '小李'
 webtitle: 'liling520.github.io'
 bio: ''
 about: true
-aboutyou: 'The girl is outgoing，easygoing and interesting.'
+aboutyou: 'The girl is outgoing，easygoing and interesting.Welcome to add me as friends'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -28,7 +28,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   mail: '/assets/liling Resume.jpg'
   weixin: '/assets/wechat.JPG' # 你的微信二维码存放的地址
   qq: '/assets/QQ.JPG' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'liling520'
+  github: 'https://github.com/liling520'
   Codepen: ''
   weibo: '/assets/weibo.JPG'
 
