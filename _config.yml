@@ -25,20 +25,13 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  resume: '/assets/liling Resume.jpg'
+  mail: '/assets/liling Resume.jpg'
   weixin: '/assets/wechat.JPG' # 你的微信二维码存放的地址
   qq: '/assets/QQ.JPG' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'liling520'
   Codepen: ''
   weibo: '/assets/weibo.JPG'
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+
 
 # 分页
 paginate: 2
