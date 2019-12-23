@@ -14,9 +14,3 @@ subtitle: 'Welcome to GanSu'
 甘肃历史跨越八千余年，是中华民族和华夏文明的重要发祥地之一，也是中医药学的发祥地之一，被誉为“河岳根源、羲轩桑梓”。中华民族的人文始祖[伏羲](https://baike.so.com/doc/683332.html)、女娲和黄帝相传诞生在甘肃。西王母降凡于泾川县回中山。周人崛起于庆阳，秦人肇基于天水、陇南。天下李氏的根在陇西。 
 
 2014年，甘肃省GDP达6835.27亿元亿元。经过建国以来的开发建设，甘肃已形成了以石油化工、有色冶金、机械电子等为主的工业体系，成为中国重要的能源、原材料工业基地。
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
